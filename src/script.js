@@ -178,7 +178,7 @@ function sendwhatsapp() {
         "*Country:* " + country + "%0a" +
         "*Message :* " + message +
         "%0a%0a" +
-        "@ExposeNine";
+        "@ElthirTeen";
 
     window.open(url, '_blank').focus();
 }
